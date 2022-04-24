@@ -1,0 +1,4 @@
+name: CraftingRecipes
+version: '${project.version}'
+main: me.kodysimpson.craftingrecipes.CraftingRecipes
+api-version: 1.18
